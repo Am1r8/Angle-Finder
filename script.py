@@ -13,7 +13,7 @@ def dcircle(event,x,y,flags,params):
         print(points)
         if (len(points) == 3):
             degrees = findtheangle()
-            print(degrees
+            print(degrees)
     
 
 def findtheangle():
